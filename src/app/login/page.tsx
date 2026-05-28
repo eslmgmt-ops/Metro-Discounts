@@ -61,14 +61,14 @@ export default function LoginPage() {
             <div className="space-y-6">
               <div className="inline-flex items-center gap-2 rounded-full border border-primary/15 bg-primary/[0.07] px-3 py-1 text-[11px] font-semibold tracking-wide text-primary uppercase">
                 <LayoutGridIcon className="size-3.5" aria-hidden />
-                idiscountflow
+                Metro Canabies Discounts
               </div>
 
               <div className="flex items-center gap-4">
                 <div className="relative shrink-0 rounded-2xl border border-primary/12 bg-card p-4 shadow-sm ring-1 ring-primary/[0.06]">
                   <Image
-                    src="/logo.webp"
-                    alt="idiscountflow"
+                    src="/metro-logo.png"
+                    alt="Metro Canabies Discounts"
                     width={64}
                     height={64}
                     className="size-14 object-contain md:size-16"
@@ -77,7 +77,7 @@ export default function LoginPage() {
                 </div>
                 <div className="min-w-0">
                   <h1 className="font-heading text-3xl font-semibold tracking-tight text-foreground md:text-4xl">
-                    Discount portal
+                    Metro Canabies Discounts
                   </h1>
                   <p className="mt-1 text-sm text-muted-foreground md:text-base">
                     Sign in with your work email to manage discounts and drafts.

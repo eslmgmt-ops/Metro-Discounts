@@ -3,7 +3,7 @@ import { DashboardShell } from "@/components/dashboard-shell"
 import { HowToUseGuide } from "@/components/how-to-use-guide"
 
 export const metadata: Metadata = {
-  title: "How to use · idiscountflow",
+  title: "How to use · Metro Canabies Discounts",
 }
 
 export default function HowToUsePage() {

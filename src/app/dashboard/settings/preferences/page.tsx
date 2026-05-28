@@ -3,7 +3,7 @@ import { DashboardShell } from "@/components/dashboard-shell"
 import { DashboardPlaceholderPage } from "@/components/dashboard-placeholder-page"
 
 export const metadata: Metadata = {
-  title: "Preferences · idiscountflow",
+  title: "Preferences · Metro Canabies Discounts",
 }
 
 export default function SettingsPreferencesPage() {

@@ -227,13 +227,13 @@ export function DashboardShell({
               <SidebarMenuItem>
                 <SidebarMenuButton
                   size="lg"
-                  tooltip="idiscountflow"
+                  tooltip="Metro Canabies Discounts"
                   render={<Link href="/dashboard" />}
                   className="gap-3 rounded-xl border border-transparent transition-colors hover:border-primary/10 hover:bg-sidebar-accent/60"
                 >
                   <span className="relative flex size-10 shrink-0 items-center justify-center overflow-hidden rounded-xl bg-gradient-to-br from-card to-primary/[0.07] p-0.5 shadow-sm ring-1 ring-primary/10">
                     <Image
-                      src="/logo.webp"
+                      src="/metro-logo.png"
                       alt=""
                       width={40}
                       height={40}
@@ -243,10 +243,10 @@ export function DashboardShell({
                   </span>
                   <div className="grid min-w-0 flex-1 text-left text-sm leading-tight">
                     <span className="truncate font-semibold tracking-tight text-sidebar-foreground">
-                      idiscountflow
+                      Metro Canabies
                     </span>
                     <span className="truncate text-[11px] text-sidebar-foreground/65">
-                      Discount manager
+                      Discounts
                     </span>
                   </div>
                 </SidebarMenuButton>

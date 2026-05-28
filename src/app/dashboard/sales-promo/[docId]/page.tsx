@@ -3,7 +3,7 @@ import { DashboardShell } from "@/components/dashboard-shell"
 import { SalesPromoCollabRoom } from "@/components/sales-promo-collab-room"
 
 export const metadata: Metadata = {
-  title: "Sales Promo document · idiscountflow",
+  title: "Sales Promo document · Metro Canabies Discounts",
 }
 
 export default async function SalesPromoDocPage({

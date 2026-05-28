@@ -204,7 +204,7 @@ export function DiscountDashboardView() {
         <div className="flex flex-col gap-2 md:flex-row md:items-end md:justify-between">
           <div>
             <h1 className="font-heading text-2xl font-semibold tracking-tight text-foreground md:text-3xl">
-              Discount manager
+              Metro Canabies Discounts
             </h1>
             {isManager && managerStores.length > 0 ? (
               <p className="mt-2 max-w-2xl text-xs text-muted-foreground">

@@ -15,9 +15,9 @@ const fontMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "idiscountflow · Discount manager",
-  description: "Discount management portal for Treez org-level discounts.",
-  metadataBase: new URL("https://idiscountflow.com"),
+  title: "Metro Canabies Discounts · Discount manager",
+  description: "Metro Canabies Discounts portal for managing Treez org-level discounts.",
+  metadataBase: new URL("https://metro-canabies-discounts.com"),
 }
 
 export default function RootLayout({
