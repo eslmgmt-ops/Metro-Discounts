@@ -231,13 +231,13 @@ export function DashboardShell({
                   render={<Link href="/dashboard" />}
                   className="gap-3 rounded-xl border border-transparent transition-colors hover:border-primary/10 hover:bg-sidebar-accent/60"
                 >
-                  <span className="relative flex size-10 shrink-0 items-center justify-center overflow-hidden rounded-xl bg-gradient-to-br from-card to-primary/[0.07] p-0.5 shadow-sm ring-1 ring-primary/10">
+                  <span className="relative flex size-10 shrink-0 items-center justify-center overflow-hidden rounded-xl bg-black p-1 shadow-sm ring-1 ring-primary/10">
                     <Image
-                      src="/metro-logo.png"
-                      alt=""
-                      width={40}
-                      height={40}
-                      className="size-9 object-contain p-1.5"
+                      src="/mainlogo.png"
+                      alt="Metro Canabies Discounts"
+                      width={80}
+                      height={24}
+                      className="h-6 w-auto max-w-full object-contain object-left"
                       priority
                     />
                   </span>

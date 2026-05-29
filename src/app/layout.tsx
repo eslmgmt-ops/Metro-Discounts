@@ -18,6 +18,13 @@ export const metadata: Metadata = {
   title: "Metro Canabies Discounts · Discount manager",
   description: "Metro Canabies Discounts portal for managing Treez org-level discounts.",
   metadataBase: new URL("https://metro-canabies-discounts.com"),
+  icons: {
+    icon: "/mainlogo.png",
+    apple: "/mainlogo.png",
+  },
+  openGraph: {
+    images: [{ url: "/mainlogo.png" }],
+  },
 }
 
 export default function RootLayout({

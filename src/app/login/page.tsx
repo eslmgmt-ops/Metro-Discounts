@@ -65,13 +65,13 @@ export default function LoginPage() {
               </div>
 
               <div className="flex items-center gap-4">
-                <div className="relative shrink-0 rounded-2xl border border-primary/12 bg-card p-4 shadow-sm ring-1 ring-primary/[0.06]">
+                <div className="relative shrink-0 overflow-hidden rounded-2xl border border-primary/12 bg-black p-3 shadow-sm ring-1 ring-primary/[0.06]">
                   <Image
-                    src="/metro-logo.png"
+                    src="/mainlogo.png"
                     alt="Metro Canabies Discounts"
-                    width={64}
-                    height={64}
-                    className="size-14 object-contain md:size-16"
+                    width={180}
+                    height={48}
+                    className="h-10 w-auto max-w-[180px] object-contain object-left md:h-12"
                     priority
                   />
                 </div>
