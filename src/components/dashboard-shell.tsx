@@ -227,14 +227,14 @@ export function DashboardShell({
               <SidebarMenuItem>
                 <SidebarMenuButton
                   size="lg"
-                  tooltip="Metro Canabies Discounts"
+                  tooltip="Metro Cannabis Discounts"
                   render={<Link href="/dashboard" />}
                   className="gap-3 rounded-xl border border-transparent transition-colors hover:border-primary/10 hover:bg-sidebar-accent/60"
                 >
                   <span className="relative flex size-10 shrink-0 items-center justify-center overflow-hidden rounded-xl bg-black p-1 shadow-sm ring-1 ring-primary/10">
                     <Image
                       src="/mainlogo.png"
-                      alt="Metro Canabies Discounts"
+                      alt="Metro Cannabis Discounts"
                       width={80}
                       height={24}
                       className="h-6 w-auto max-w-full object-contain object-left"
@@ -243,7 +243,7 @@ export function DashboardShell({
                   </span>
                   <div className="grid min-w-0 flex-1 text-left text-sm leading-tight">
                     <span className="truncate font-semibold tracking-tight text-sidebar-foreground">
-                      Metro Canabies
+                      Metro Cannabis
                     </span>
                     <span className="truncate text-[11px] text-sidebar-foreground/65">
                       Discounts

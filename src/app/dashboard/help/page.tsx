@@ -3,7 +3,7 @@ import { DashboardShell } from "@/components/dashboard-shell"
 import { DashboardHelpPage } from "@/components/dashboard-help-page"
 
 export const metadata: Metadata = {
-  title: "Help · Metro Canabies Discounts",
+  title: "Help · Metro Cannabis Discounts",
 }
 
 export default function HelpPage() {

@@ -3,7 +3,7 @@ import { DashboardShell } from "@/components/dashboard-shell"
 import { UsersManagement } from "@/components/users-management"
 
 export const metadata: Metadata = {
-  title: "Users · Metro Canabies Discounts",
+  title: "Users · Metro Cannabis Discounts",
 }
 
 export default function UsersPage() {

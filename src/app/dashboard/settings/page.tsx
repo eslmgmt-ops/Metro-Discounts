@@ -3,7 +3,7 @@ import { DashboardShell } from "@/components/dashboard-shell"
 import { DashboardPlaceholderPage } from "@/components/dashboard-placeholder-page"
 
 export const metadata: Metadata = {
-  title: "Settings · Metro Canabies Discounts",
+  title: "Settings · Metro Cannabis Discounts",
 }
 
 export default function SettingsPage() {
